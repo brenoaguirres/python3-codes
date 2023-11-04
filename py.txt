@@ -1,0 +1,10 @@
+Kivy
+Pygame
+Django
+OpenCV
+Matplotlib
+Langchain
+Pytorch
+Pandas
+Numpy
+Sqlite3

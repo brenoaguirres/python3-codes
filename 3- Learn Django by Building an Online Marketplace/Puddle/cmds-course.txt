@@ -1,0 +1,26 @@
+# create venv
+python3 -m venv env
+source env/bin/activate
+
+# install django
+pip install django
+
+# run project
+django-admin startproject Puddle
+cd Puddle
+ls
+
+# run django development server
+python manage.py runserver
+
+# create core app
+python manage.py startapp core
+# Important to add 'core' on INSTALLED_APPS list at settings.py
+
+# Inside core folder create templates/core/index.html
+# Inside views.py add request to index page
+# add url to urls.py
+
+# we will create base.html file which other html files will extend
+
+

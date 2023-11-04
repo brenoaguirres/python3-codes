@@ -1,0 +1,11 @@
+# Python for beginners - Full Course [freeCodeCamp.org] -- exercises
+# Author: Breno Aguirres
+# Date: 15/10/23
+# @combo.pixel >> Instagram
+# linkedin.com/in/brenoaguirres >> LinkedIn
+# github.com/brenoaguirres >> Github
+
+# Sinta-se livre para me contatar para trabalhos, posições ou mesmo para ajuda com os execicios.
+# Feel free to contact me for jobs, positions, and even help with exercises.
+# N'hésitez pas à me contacter pour des emplois, des positions et même pour recevoir de l'aide avec les exercices.
+

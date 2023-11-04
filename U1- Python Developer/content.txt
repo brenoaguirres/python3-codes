@@ -1,0 +1,47 @@
+###########################
+# THE LAB - LAYOUTS
+###########################
+
+# Base Structure - kv file Syntax
+# Widgets (Button, Label)
+# Properties (Color, Space, Position)
+
+# Responsive Interfaces
+# Layouts
+# DP: Density-Independent Pixels
+
+
+########
+# Layouts
+########
+BoxLayout - Stacks elements vertically or horizontally
+ArchorLayout - Put elements in corners or center
+GridLayout - Columns & Rows
+StackLayout - Stack elements of different sizes
+ScrollView - Scroll with content bigger than screen
+PageLayout - Slideshow/Book Pages
+
+# Also existing: FloatLayout / RelativeLayout / ScatterLayout
+
+
+#######
+# Setup
+#######
+
+- You can setup the layout file in a separate kv file
+
+#######
+# Buttons & Label
+#######
+
+MainWidget:
+<MainWidget>:
+    Button:                 - Syntax for creating components
+        text: "Hello"       - Syntax for accessing properties
+
+
+
+
+
+
+

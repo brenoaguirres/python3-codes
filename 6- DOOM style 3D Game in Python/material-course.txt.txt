@@ -1,0 +1,8 @@
+# Behaviour
+- Wolfenstein 3D / DOOM is based on the raycasting algorithm which in reality is performed on a two dimensional plane but gives the illusion of a three dimensional space.
+
+
+# Initial Setup
+- pip install pygame
+- 5 files (main.py, player.py, object_renderer.py, raycasting.py, map.py, settings.py)
+- settings.py -> main game settings

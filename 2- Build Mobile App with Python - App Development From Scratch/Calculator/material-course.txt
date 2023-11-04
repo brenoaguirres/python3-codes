@@ -1,0 +1,11 @@
+# Converting code into apk
+https://colab.research.google.com/drive/1b9gMzs6XAtxCtahxei4N0fWZk7xiPlVw?usp=sharing
+
+- access link
+- run script cmds
+- buildozer file >> kivy requirements = python3,kivy==2.2.1,kivymd,pillow
+- update kivy version, change app name, change icon and splashart, uncomment lines.
+
+
+# FINISHED
+https://www.youtube.com/watch?v=qfSJJVjp6BY

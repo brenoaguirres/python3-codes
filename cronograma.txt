@@ -1,0 +1,137 @@
+Code with Stein
+
+Data: 17 de outubro de 2023
+
+Título: Langchain crash course for beginners
+Data: 24 de outubro de 2023
+
+Título: Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)
+Data: 31 de outubro de 2023
+
+Título: Creating a DOOM (Wolfenstein) - style 3D Game in Python
+Data: 7 de novembro de 2023
+
+Título: Python Game Development Project Using OOP – Minesweeper Tutorial (w/ Tkinter)
+Data: 14 de novembro de 2023
+
+Título: Python Platformer Game Tutorial for Beginners
+Data: 21 de novembro de 2023
+
+Título: Pygame Tutorial for Beginners - Python Game Development Course
+Data: 28 de novembro de 2023
+
+Título: How to Make a Game in Python
+Data: 5 de dezembro de 2023
+
+Título: Tutorial de engenharia imediata - respostas Master ChatGPT e LLM
+Data: 12 de dezembro de 2023
+
+Título: ChatGPT Course – Use The OpenAI API to Code 5 Projects
+Data: 19 de dezembro de 2023
+
+Título: Learn Django by Building an Online Marketplace – Python Tutorial for Beginners
+Data: 26 de dezembro de 2023
+
+Título: Python Django Web Framework - Full Course for Beginners
+Data: 2 de janeiro de 2024
+
+Título: Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
+Data: 9 de janeiro de 2024
+
+Título: Machine Learning for Everybody – Full Course
+Data: 16 de janeiro de 2024
+
+Título: Advanced C# Programming Course
+Data: 23 de janeiro de 2024
+
+Título: Create a Large Language Model from Scratch with Python – Tutorial
+Data: 30 de janeiro de 2024
+
+Título: Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma
+Data: 6 de fevereiro de 2024
+
+Título: Linux Operating System - Crash Course for Beginners
+Data: 13 de fevereiro de 2024
+
+Título: Automate with Python – Full Course for Beginners
+Data: 20 de fevereiro de 2024
+
+Título: Creating Jarvis powered by OpenAI and Python | ChatGPT
+Data: 27 de fevereiro de 2024
+
+Título: Deep Learning Crash Course for Beginners
+
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course
+Build 12 Data Science Apps with Python and Streamlit - Full Course
+Kivy Course - Create Python Games and Mobile Apps
+PostgreSQL Tutorial for Beginners
+Learn HTML5 and CSS3 For Beginners - Crash Course
+Python Projects ~ Build Mobile App With Python ~ App Development From Scratch
+Mojo Programming Language – Full Course for Beginners
+Python NumPy Tutorial for Beginners
+Advanced Computer Vision with Python - Full Course
+Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)
+Pandas & Python for Data Analysis by Example – Full Course for Beginners
+CS50x 2023 - Lecture 0 - Scratch https://www.youtube.com/watch?v=IDDmrzzB14M&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4
+Pong - Lecture 0 - CS50's Introduction to Game Development 2018 https://www.youtube.com/watch?v=GfwpRU0cT10&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh&index=2
+Python Projects https://www.youtube.com/watch?v=p4_mGdeNXb4&list=PL9bD98LkBR7MiD-jeRLfaakke09zYSXrD
+
+
+Intermediate Python Programming Course
+Create a Programming Language and Learn Advanced Python – Full Course
+Object Oriented Programming with Python - Full Course for Beginners
+Python Playlist https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
+Python Backend Web Development Course (with Django)
+Python API Development - Comprehensive Course for Beginners
+
+
+
+System Design for Beginners Course
+https://www.youtube.com/watch?v=tv-_1er1mWI
+https://www.youtube.com/watch?v=tAuRQs_d9F8
+Design Patterns Python https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+Design Patterns Python 2 https://www.youtube.com/watch?v=7XCmtl7_AUU&list=PLAgbpJQADBGIOOJIolD0f_oJd3hNJCLK7
+
+
+PyTorch for Deep Learning & Machine Learning – Full Course
+Machine Learning for Everybody – Full Course https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
+Deep Learning for Computer Vision with Python and TensorFlow – Complete Course
+
+
+BACKEND DEVELOPMENT PLAYLIST (JS NODE)
+https://www.youtube.com/watch?v=uVwtVBpw7RQ&list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud
+
+
+
+CHATGPT
+Prompt Engineering for Web Devs - ChatGPT and Bard Tutorial
+
+
+Statistics - A Full University Course on Data Science Basics
+Data Analysis with Python for Excel Users - Full Course
+
+
+Scrapy Course – Python Web Scraping for Beginners
+
+PYGAME
+Pygame Tutorial for Beginners - Python Game Development Course
+Python Platformer Game Tutorial for Beginners
+Pong with Python & Pygame – Tutorial
+Drum Machine with Python and Pygame – Full Project Course
+Code a Snake Game with Python and Pygame 🐍 - Tutorial
+Stardew Valley Game Clone with Python and Pygame – Full Course
+Python & PyGame Tutorial – Code a Duck Hunt Game
+Creating a DOOM (Wolfenstein) - style 3D Game in Python
+Creating a Zelda style game in Python [with some Dark Souls elements]
+Street Fighter Style Fighting Game in Python using Pygame - Complete Tutorial
+Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake
+GAMEDEV - TRY PYGAME
+https://www.youtube.com/@Zigurous/playlists
+https://www.youtube.com/watch?v=b16rgLIf8I4&list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh
+https://www.youtube.com/watch?v=oANuTmm9cpg
+CLEAR CODE
+CODER SPACE
+
+
+CODE WITH STEIN
+https://www.youtube.com/@CodeWithStein/playlists
