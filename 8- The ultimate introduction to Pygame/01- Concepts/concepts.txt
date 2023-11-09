@@ -1,0 +1,31 @@
+##########################
+HOW VIDEOGAMES WORK
+##########################
+
+-> Lots of images shown in succession + sound + responding to interaction
+-> Frames - 30/60FPS
+-> Game - Frames are dynamically generated while the game is running.
+-> Updates - Position of enemies, player movement, health, etc
+-> Input - Games constantly check for player input to update what frame is being drawn
+
+Game Loop
+1) Checking player input (event loop)
+2) Update game logic
+3) Use that information to place the elements on the screen
+
+##########################
+WHAT DOES PYGAME DO
+##########################
+
+- Draw images
+- Play sounds
+- Player input
+- Collisions
+- Text
+- Timers
+
+
+
+
+
+
